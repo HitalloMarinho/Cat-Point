@@ -78,6 +78,16 @@ header{
 }
 
 #tituloprincipalsaude{
-    color: #EE05F2;
+    color: #da3addce;
     padding-left: 70%;
+}
+
+#tituloprincipalalertas{
+    padding-left: 70%;
+    color: #ffffff;
+}
+
+#tituloprincipalcomocuidar{
+    padding-left: 70%;
+    color: #ffffff;
 }
