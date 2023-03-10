@@ -17,7 +17,7 @@
 
 #bodycuriosidades{
     background-repeat: no-repeat;
-    background-image: url("imgsite/fundocuriosidades.jpg");
+    background-image: url("imgsite/imgdefundosite.jpg");
 }
 
 #bodyforum{
@@ -27,7 +27,7 @@
 
 #bodysaude{
     background-repeat: no-repeat;
-    background-image: url("imgsite/fundosaude.jpg");
+    background-image: url("imgsite/imgdefundosite3.jpg.crdownload");
 }
  
 :root{
@@ -68,7 +68,7 @@ header{
 .topicos{
     margin: 40px;
     text-align: center;
-    color: rgb(255, 255, 255);    
+    color: black;    
 }
 
 #tituloprincipal{
@@ -102,4 +102,5 @@ header{
 
 #cor{
     color: #EE05F2;
+    padding-bottom: 50px;
 }
