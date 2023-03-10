@@ -72,7 +72,8 @@ header{
 }
 
 #tituloprincipal{
-    padding-left: 70%;
+    padding-left: 60%;
+    padding-right: 10px;
 }
 
 #tituloprincipalsaude{
@@ -88,4 +89,17 @@ header{
 #tituloprincipalcomocuidar{
     padding-left: 70%;
     color: #ffffff;
+}
+
+#titulocuriosidades{
+    margin-bottom: 40px;
+    color: #EE05F2;
+}
+
+#subtitulocuriosidades{
+     
+}
+
+#cor{
+    color: #EE05F2;
 }
