@@ -49,8 +49,6 @@
 header{
     display: flex;
     background-color: rgba(245, 245, 220, 0.151);
-    
-
 }
 
 #caixalogo{
@@ -70,7 +68,7 @@ header{
 .topicos{
     margin: 40px;
     text-align: center;
-    color: black;    
+    color: rgb(255, 255, 255);    
 }
 
 #tituloprincipal{
