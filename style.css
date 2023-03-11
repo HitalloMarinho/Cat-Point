@@ -7,12 +7,12 @@
 
 #bodyalertas{
     background-repeat: no-repeat;
-    background-image: url("imgsite/fundoalertas.jpg");
+    background-image: url("imgsite/Cats_Gray_background_Kittens_561846_1920x1080.jpg");
 }
 
 #bodycuidar{
     background-repeat: no-repeat;
-    background-image: url("imgsite/imgfundo.jpg");
+    background-image: url("imgsite/o-gato-em-fundo-branco.jpg");
 }
 
 #bodycuriosidades{
@@ -48,7 +48,7 @@
 
 header{
     display: flex;
-    background-color: rgba(245, 245, 220, 0.151);
+    background-color: rgba(137, 200, 202, 0.199);
 }
 
 #caixalogo{
@@ -71,6 +71,12 @@ header{
     color: black;    
 }
 
+#tituloprincipalcuriosidades{
+    padding-left: 3%;
+    padding-right: 65%;
+
+}
+
 #tituloprincipal{
     padding-left: 60%;
     padding-right: 10px;
@@ -83,17 +89,17 @@ header{
 
 #tituloprincipalalertas{
     padding-left: 70%;
-    color: #ffffff;
 }
 
 #tituloprincipalcomocuidar{
-    padding-left: 70%;
-    color: #ffffff;
+    padding-left: 3%;
+    padding-right: 55%;
+    color: #000000;
 }
 
 #titulocuriosidades{
     margin-bottom: 40px;
-    color: #EE05F2;
+    color: black;
 }
 
 #subtitulocuriosidades{
@@ -101,6 +107,7 @@ header{
 }
 
 #cor{
-    color: #EE05F2;
+    color: black;
     padding-bottom: 50px;
+    font-size: 20px;
 }
